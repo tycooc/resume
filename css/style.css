@@ -353,7 +353,7 @@ ul.news {
    -o-box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .blog {
-    background: url(../images/cloud_three.jpg) no-repeat center top;
+    background: url(../images/cloud_one.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -633,7 +633,7 @@ span.border.one:after {
 /*-- clients --*/
 
 #work {
-    background: url(../images/cloud_three.jpg) no-repeat center top;
+    background: url(../images/cloud_one.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
