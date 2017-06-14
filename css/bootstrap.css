@@ -517,7 +517,7 @@ a.text-success:hover {
   color: #31708f;
 }
 a.text-info:hover {
-  color: #245269;
+  color: #fbf2e9;
 }
 .text-warning {
   color: #8a6d3b;
@@ -536,7 +536,7 @@ a.text-danger:hover {
   background-color: #1B242F;
 }
 a.bg-primary:hover {
-  background-color: #3071a9;
+  background-color: #f2fcff;
 }
 .bg-success {
   background-color: #dff0d8;
