@@ -611,7 +611,7 @@ span.border.one:after {
 }
 #services {
     padding: 5em 0;
-    background: #1b242f;
+    background: url(../images/cloud_one.jpg) no-repeat center top;
 }
 .service-head.one h3{
 	color:#fff;
@@ -632,7 +632,7 @@ span.border.one:after {
     position: absolute;
     content: " ";
     width: 1px;
-    background-color: #ccc;
+    background: url(../images/cloud_three.jpg) no-repeat center top;
        left: -9px;
     margin-right: -1.5px;
 }
@@ -1667,7 +1667,7 @@ span.border.two:after {
 	}
 	span.border {
 		    width: 40%;
-		background: #8C8989;
+		background: url(../images/header-bg.jpg) no-repeat center top;
 		height: 1px;
 		display: block;
 		margin: 11px auto 0px;
