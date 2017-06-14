@@ -1950,7 +1950,7 @@ span.border.two:after {
 	}
 	.news-text {
 		float: right;
-		padding: 0.5em 1em 1.5em 1em;
+		padding: 0.5em;
 	}
 }
 @media(max-width:320px){
