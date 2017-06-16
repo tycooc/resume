@@ -561,6 +561,12 @@ span.border.one:after {
     line-height: 1.9em;
     font-size: 0.9em;
 }
+.wthree_about_right_grid_right a{
+    color: #ffe7c8;
+}
+.wthree_about_right_grid_right ul{
+    color: #ffe7c8;
+}
 .wthree_about_right_grid_right {
     padding-right: 0;
 }
